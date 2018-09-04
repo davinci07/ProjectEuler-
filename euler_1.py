@@ -11,4 +11,12 @@ fib = sum(list(filter(lambda y: y < (4 * (10 ** 6)), filter(lambda x: x % 2 == 0
 print(fib)
 
 #3
-    
+
+#4
+
+#5
+
+#6
+print(((sum([i for i in range(101)]))**2) - sum([(i ** 2) for i in range(101)]))
+
+#7
